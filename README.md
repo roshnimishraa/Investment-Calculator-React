@@ -6,6 +6,11 @@
 5. Styling using CSS
 
 #### Deployed Link: https://investment-calculator-mu-one.vercel.app/
+
+### Tech Stack
+1. React
+2. CSS
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
